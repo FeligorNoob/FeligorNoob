@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @FeligorNoob
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: FeligorNoob#2520
+- 🌱 I’m currently learning Java
+- 📫 Discord: FeligorNoob
 
-<!---
-FeligorNoob/FeligorNoob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- CONTRIBUTIONS -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
